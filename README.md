@@ -17,7 +17,7 @@ pip install -r requirements.txt
 mv template.env .env
 
 # Initialize the database
-python scripts/manage_db.py
+python scripts/manage_db.py create
 ```
 
 ### Setup the .env with your infomations
@@ -33,9 +33,6 @@ BOT_MAIL_PASSWD=bot_mail_passwd
 
 # MAIL TARGET
 TARGET_MAIL=your_mail@exemple.com
-
-# DB PATH
-DB_PATH=./data/botASS.db
 ```
 
 --------

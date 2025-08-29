@@ -11,7 +11,7 @@ def generatePrompt():
 
     difficulty = random.choice(['Facile', 'Moyenne', 'Difficile'])
 
-    with open("./prompt.txt", "r", encoding="utf-8") as f:
+    with open("./bot/prompt.txt", "r", encoding="utf-8") as f:
         prompt_template = f.read()
     prompt = prompt_template.format(MAX_TOKEN=MAX_TOKEN, difficulty=difficulty)
 
