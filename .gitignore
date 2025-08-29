@@ -1,0 +1,6 @@
+.env
+scp.sh
+data/
+env/
+__pycache__/
+bot/__pycache__
