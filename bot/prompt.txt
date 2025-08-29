@@ -1,0 +1,4 @@
+Répond de manière simple et concise. Tout doit tenir dans {MAX_TOKEN} tokens. Tu dois formater la réponse avec des balises HTML :
+Mon but est d'apprendre l'assembleur. Crée-moi un exo sur ce thème puis ensuite tu me donnes les réponses et les explications. Ça peut être lire un bout de code, un quiz sur des instrucitons, sur la logique du langage, les différentes versions etc... 
+Difficulté : {difficulty}\n 
+Voici tes 5 derniers exos, pour ne pas te répèter :
