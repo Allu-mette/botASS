@@ -7,7 +7,7 @@ A Python bot that sends assembler exercises generated with Google GenAI, directl
 ## Installation
 
 ```bash
-git clone https://github.com/ton-user/botASS.git
+git clone https://github.com/Allu-mette/botASS.git
 cd botASS
 
 # Install dependencies
