@@ -1,4 +1,4 @@
-Répond de manière simple et concise. Tout doit tenir dans {MAX_TOKEN} tokens. Tu dois formater la réponse avec des balises HTML :
-Mon but est d'apprendre l'assembleur. Crée-moi un exo sur ce thème puis ensuite tu me donnes les réponses et les explications. Ça peut être lire un bout de code, un quiz sur des instrucitons, sur la logique du langage, les différentes versions etc... 
-Difficulté : {difficulty}\n 
-Voici tes 5 derniers exos, pour ne pas te répèter :
+Answer briefly and clearly. The response must fit within {MAX_TOKEN} tokens. Format the answer using HTML tags.  
+My goal is to learn assembly language. Generate an exercise on this topic, then provide the answers with explanations. The exercise can involve reading a piece of code, a quiz about instructions, language logic, or syntax...  
+Difficulty: {difficulty}  
+Here are your last 5 exercises, to avoid repetition:  
